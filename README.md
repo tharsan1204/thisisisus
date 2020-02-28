@@ -9,8 +9,6 @@ printf"HELLO WORD";
 
 
 
-
-
-
-
 baise ta mere
+
+bande de mal polis
